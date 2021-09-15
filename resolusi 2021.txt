@@ -1,2 +1,3 @@
-> menjadi freelancer web developement
-  - September = Lancar membuat front-end
+~> menjadi freelancer web developement
+  > September = Lancar membuat front-end, Menyelesaikan materi Pengetahuan Kuantitatif 
+  > Oktober   = Lancar membuat back-end
