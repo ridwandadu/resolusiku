@@ -1,0 +1,2 @@
+# resolusiku
+Sebuah resolusi hidup
