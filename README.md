@@ -1,2 +1,2 @@
 # resolusiku
-Sebuah resolusi hidup
+Sebuah resolusi hidup seorang remaja goblok
